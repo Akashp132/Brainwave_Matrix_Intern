@@ -1,1 +1,1 @@
-Sale data analusis of commercial store.
+Sale data analysis of commercial store.
