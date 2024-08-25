@@ -46,8 +46,7 @@
         <li>Correct Data Types</li>
         <p>Date field has been converted to date and time format to standardize the data.Also, CustomerID and InvoiceNo have been converted to int datatype for removing any false data available</p>
         <li>Remove Duplicates</li>
-        <p>Duplicate data can make skew results and lead to incorrect conclusions, So duplicates have been removed from the data before analysis</p>
-        
+        <p>Duplicate data can make skew results and lead to incorrect conclusions, So duplicates have been removed from the data before analysis</p> 
     </ul>
     <h3>Exploratory Data Analysis (EDA)</h3>
     <ul>
