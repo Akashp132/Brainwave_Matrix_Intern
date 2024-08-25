@@ -4,7 +4,7 @@
     <p>The data set (data.csv) that has been used in this project has been downloaded from an online platform.</p>
     <p> Aim of this project is to identify the underlying patterns by performing EDA using python on the data.csv and gather useful insights that will be beneficial for anyone that wishes to use the same data for further analysis.</p>
 <h2>Objective</h2>
-    <p>this data can be used for the following analysis</p>
+    <p>This data can be used for the following analysis</p>
      <h3>Sales Analysis</h3>
         <ul>
             <li>Track sales trends over time.</li>
