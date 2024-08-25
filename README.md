@@ -63,7 +63,20 @@
         <li>Generate reports summarizing key insights.</li>
     </ul>
 <h2>Conclusion</h2>
-
+    <ul>
+        <li>There is a total of 2532 variety type of  products in the store.</li>
+        <li>Customers are from 18 different countries.</li>
+        <li>Customers from UK spend most and Nethererland the least amount of money.</li>
+        <li>"WORLD WAR 2 GLIDERS ASSTD DESIGNS" is the most spend product.</li>
+        <li>CustomerID:18102 spend the most.</li>
+        <li>UK has the most number of customer  possibly due to it being the primary market or location of the business</li>
+        <li>1st month of the day has the most spending and 1st  week with repect to other weeks.restock most of the items before the starting of month and add new items also.</li>
+        <li>Decorative pieces are the most selling categories ,so adding new product to the department will increase the sales</li>
+        <li>Countries such as Iceland, Australia, Italy, Channel Islands, Belgium, Switzerland, Poland, and the Netherlands have occasinal customers.For countries with minimal spending, consider niche marketing strategies or targeted campaigns to increase awareness and sales. These markets might benefit from specialized products or limited-time offers.</li>
+        <li>Continuously monitor sales data and customer feedback from all markets. Adapt strategies based on performance and emerging trends to ensure sustained growth and customer satisfaction</li>
+        <li>Introduce limited edition products from different countries to attract wide variety of customers.</li>
+        <li>introduce weekend sales so that it can attract more customers due to work off day,family spending time and conduct surveys and lighting deals on weekend especially to increase customer.Midnight sale is also effective. </li>
+    </ul>
 
 <p>Through this project, I have successfully analyzed the store sales dataset. This project serves as a demonstration of data preprocessing, exploratory data analysis.</p>
 
