@@ -35,6 +35,7 @@
         <li><strong>UnitPrice:</strong> The price per unit of the product.</li>
         <li><strong>CustomerID:</strong> A unique identifier for each customer.</li>
         <li><strong>Country:</strong> The country where the customer resides.</li>
+        <li><strong>TotalValue:</strong>total amount spend.</li>
     </ul>
 <h2>Steps taken in this project</h2>
     <h3>Collect and Load Data</h3>
