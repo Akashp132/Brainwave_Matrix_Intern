@@ -1,6 +1,6 @@
 <h1>Data science/Data Analytics Internship at Brainwave_Matrix_Solutions </h1>
 <br>
-##Twitter Sentiments Analysis (NLP)
+<h2>Twitter Sentiments Analysis (NLP)</h2>
 
 A brief description about this project : This is an entity-level sentiment analysis dataset of twitter. Given a message and an entity, the task is to judge the sentiment of the message about the entity. There are three tweets in this dataset: Positive,Negative and Neutral.
 
