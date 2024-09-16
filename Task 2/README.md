@@ -7,15 +7,15 @@ A brief description about this project : This is an entity-level sentiment analy
 This dataset is the collection of 200 unique tweets collected with the help of a Chrome extension.
 <h2>Dataset Information</h2>
     <ul>
-        <li><strong>Tweet Text:</strong> contains tweet.</li>
+        <li><strong>Tweet Text:</strong> Contains tweet</li>
         <li><strong>Reply Count:</strong>Count of replies</li>
-        <li><strong>Retweet Count:</strong>Count of reweets</li>
+        <li><strong>Retweet Count:</strong>Count of retweets</li>
         <li><strong>Like Count:</strong>Count of likes</li>
         <li><strong>View Count:	</strong>Count of views</li>
-        <li><strong>Lemmatized Tweet Text:</strong> Tweet after lemmatization.</li>
-        <li><strong>subjectivity:</strong> Subjectivity score of tweet.</li>
-        <li><strong>Polarity:</strong> Polarity score of the Tweet.</li>
-        <li><strong>Analysis Score:</strong>Indicate the wether the tweet is positive,negative or neutral.</li>
+        <li><strong>Lemmatized Tweet Text:</strong> Tweet after lemmatization</li>
+        <li><strong>subjectivity:</strong> Subjectivity score of tweet</li>
+        <li><strong>Polarity:</strong> Polarity score of the Tweet</li>
+        <li><strong>Analysis Score:</strong>Indicate whether the tweet is positive,negative or neutral.</li>
     </ul>
 <h2>Steps taken in this project</h2>
     <h3>Collect and Load Data</h3>
