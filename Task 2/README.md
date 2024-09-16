@@ -41,7 +41,7 @@ This dataset is the collection of 200 unique tweets collected with the help of a
                 <li><strong>Subjectivity and Polarity:</strong> Sujectivity is a metric to decide the amount of personal opinion and factual information in a text, ranging from 0 to +1, where 0 is highly objective and +1 is highly subjective.Polarity is the level of positivity or negativity in a text, ranging from -1 to +1, where -1 is negative and +1 is positive</li>
             </ul>
              <h4>4. Building Word Cloud</h4>
-            <p>Creating a word cloud is to visualize the content of a large collection of textual information and their subject domains within seconds, without reading all of them. Create word cloud separately for positive, neagtive and neutral polarityMost frequent words will shown big in size and least will be shown small in size. </p>
+            <p>Creating a word cloud is to visualize the content of a large collection of textual information and their subject domains within seconds, without reading all of them. Create word cloud separately for positive, neagtive and neutral polarity.Most frequent words will shown big in size and least will be shown small in size. </p>
                 <h4>5. Visualisation</h4>
             <p>Plot barplot and scatter plot.Scatter plot shows the relationship between polarity and sujectivity of the data.Depicted sentiment distribution using bar plot with Analysis score in x-axis and the count of analysis score in y-axis.Bar plot has been created separately based on the sentiment distribution of Like count,Reply count,View count,Retweet count</p>
 <br>
