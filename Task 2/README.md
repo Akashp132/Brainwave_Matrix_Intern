@@ -13,7 +13,7 @@ This dataset is the collection of 200 unique tweets collected with the help of a
         <li><strong>Like Count:</strong>Count of likes</li>
         <li><strong>View Count:	</strong>Count of views</li>
         <li><strong>Lemmatized Tweet Text:</strong> Tweet after lemmatization</li>
-        <li><strong>subjectivity:</strong> Subjectivity score of tweet</li>
+        <li><strong>Subjectivity:</strong> Subjectivity score of tweet</li>
         <li><strong>Polarity:</strong> Polarity score of the Tweet</li>
         <li><strong>Analysis Score:</strong>Indicate whether the tweet is positive,negative or neutral.</li>
     </ul>
