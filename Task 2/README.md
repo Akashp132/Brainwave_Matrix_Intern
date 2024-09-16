@@ -8,9 +8,14 @@ This dataset is the collection of 200 unique tweets collected with the help of a
 <h2>Dataset Information</h2>
     <ul>
         <li><strong>Tweet Text:</strong> contains tweet.</li>
+        <li><strong>Reply Count:</strong>Count of replies</li>
+        <li><strong>Retweet Count:</strong>Count of reweets</li>
+        <li><strong>Like Count:</strong>Count of likes</li>
+        <li><strong>View Count:	</strong>Count of views</li>
         <li><strong>Lemmatized Tweet Text:</strong> Tweet after lemmatization.</li>
         <li><strong>subjectivity:</strong> Subjectivity score of tweet.</li>
         <li><strong>Polarity:</strong> Polarity score of the Tweet.</li>
+        <li><strong>Analysis Score:</strong>Indicate the wether the tweet is positive,negative or neutral.</li>
     </ul>
 <h2>Steps taken in this project</h2>
     <h3>Collect and Load Data</h3>
@@ -36,8 +41,8 @@ This dataset is the collection of 200 unique tweets collected with the help of a
             </ul>
         <h4>4. Building Word cloud</h4>
             <p>Creating a word cloud is  to visualize the most frequent words in the  text data for Positive ,Negative and Neutral.</p>
-        <h4>5. Predictive model building</h4>
-            <p>Accuracy, precision, recall, and F1-score are evaluation metrics  used for classification models. These metrics help assess the performance of models that predict categorical outcomes.</p>
+        <h4>5. Predictive model building and saving model</h4>
+            <p>Accuracy, precision, recall, and F1-score are evaluation metrics  used for classification models. These metrics help assess the performance of models that predict categorical outcomes.It is then saved for making the future analysis easy</p>
         <h4>6. Visualisation</h4>
             <p>Plot barplot and scatter plot.</p>
 <br>
